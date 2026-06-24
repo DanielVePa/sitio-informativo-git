@@ -1,0 +1,8 @@
+Objetivo: Crear un videojuego realmente interesante y rentable
+
+Publico: Adolescentes, jovenes
+
+Caracteristicas: 
+perspectiva 2D
+progresion del nivel el personaje principal
+Sistema de equipamiento tipo RPG
